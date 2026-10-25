@@ -1,0 +1,25 @@
+# Python 缓存与测试产物
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# 本地存档与试玩数据（不要把个人进度提交到公开仓库）
+save.json
+save.json.bak
+demo_data/
+demo_data/**
+
+# 临时文件、日志和编辑器配置
+*.tmp
+*.temp
+*.log
+*.bak
+.idea/
+.vscode/
+*.code-workspace
+Thumbs.db
+Desktop.ini
+
